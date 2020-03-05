@@ -1,0 +1,33 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*target*
+
+# eclipse #
+.settings/
+.classpath
+.project
+.launch
+.factorypath
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+bin/
+/.externalToolBuilders/
+.flattened-pom.xml
+
+*.log
+*.pem
+
